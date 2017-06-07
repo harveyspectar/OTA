@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <serranoltexx>
-            <Filename>RR-N-v5.8.3-20170604-serranoltexx.</Filename>
+            <Filename>RR-N-v5.8.3-20170605-serranodsdd.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranoltexx/</RomUrl>
+                description="Download the latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/serranodsdd/RR-N-v5.8.3-20170605-serranodsdd.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
